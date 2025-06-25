@@ -44,7 +44,7 @@
 - 🌐 Deployed using Vercel
 - 💡 Expanding with features like notices, student dashboards & exam tools
 
-🔗 [Visit Project]([https://poornimites-2bbe7.firebaseapp.com/](http://poornimites.vercel.app/))  
+🔗 [Visit Project](http://poornimites.vercel.app/)  
 🛠️ *Currently in development & student-tested*
 
 ---
