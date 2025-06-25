@@ -65,8 +65,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/praveen-kumar-404/)
 - 🐦 [Twitter](https://twitter.com/Bad_boy_khohar)
-- 📧 Email: `praveen.dev@` *(fill with your preferred domain)*
-- 💬 Portfolio *(Coming soon)*
+- 📧 Email: `iampraveendev@gmail.com`
 
 ---
 
